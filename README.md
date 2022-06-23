@@ -8,7 +8,7 @@ This project consists of a registration screen
 
 ## Project demo
 
-![Project Photo](projectPhoto.PNG)
+![Project Photo](projectPhoto.png)
 
 Final result: https://formhooks.netlify.app/
 
