@@ -21,6 +21,12 @@ code {
 }
 
 @media (max-width: 768px) {
+  .container {
+    width: 90%;
+    margin-top: 15px;
+    padding: 15px;
+  }
+  
   .containerButton {
     display: flex;
     justify-content: center;
