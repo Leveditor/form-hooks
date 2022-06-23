@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #584f80;
 }
 
 code {
@@ -28,11 +29,14 @@ code {
 
 @media (min-width: 768px) {
   .container {
-    margin-left: 35%;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
     margin-top: 10px;
   }
 
   .buttonSubmit{
-    margin-left: 10%;
+    margin-left: 35%;
   }
 }
