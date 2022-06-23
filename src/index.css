@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.buttonSubmit {
+  background-color: #00a400;
+  border: none;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+@media (max-width: 768px) {
+  .containerButton {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    margin-left: 35%;
+    margin-top: 10px;
+  }
+
+  .buttonSubmit{
+    margin-left: 10%;
+  }
+}
